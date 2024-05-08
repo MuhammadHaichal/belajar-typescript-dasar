@@ -1,0 +1,25 @@
+{
+  "name": "belajar-typescript-dasar",
+  "version": "1.0.0",
+  "description": "belajar typescript dasar",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MuhammadHaichal/belajar-typescript-dasar.git"
+  },
+  "keywords": [
+    "belajar"
+  ],
+  "author": "haikal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MuhammadHaichal/belajar-typescript-dasar/issues"
+  },
+  "homepage": "https://github.com/MuhammadHaichal/belajar-typescript-dasar#readme",
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
